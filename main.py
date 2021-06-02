@@ -24,7 +24,7 @@ GENERATE_RES = 3
 IMG_SIZE = 128
 IMG_CHANNELS = 3
 
-training_data = np.load('/spell/monet_data.npy')
+training_data = np.load('uploads/monet_data.npy')
 
 def discriminator(image_shape):
     mod = Sequential()
