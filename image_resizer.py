@@ -6,7 +6,7 @@ from PIL import Image
 
 IMAGE_SIZE = 128
 IMAGE_CHANNELS = 3
-IMAGE_DIR = '/Users/cesarandres/Downloads/monet_jpg' #implament directory with images
+IMAGE_DIR = '/Image/Dir' #add path with test data
 
 training_data = []
 images_path = IMAGE_DIR
