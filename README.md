@@ -1,2 +1,2 @@
 # GANart
-First attempt at using a generative adversarial network with Keras. The sample data was a set of 5000 abstract images from Kaggle.
+First attempt at producing a generative adversarial network with Keras. Trained from a set of 50000 paintings from impressionist painters.
